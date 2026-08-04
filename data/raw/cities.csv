@@ -1,1 +1,12 @@
+city_id,city_name,state,tier
+1,Mumbai,Maharashtra,Tier1
+2,Delhi,Delhi,Tier1
+3,Bengaluru,Karnataka,Tier1
+4,Hyderabad,Telangana,Tier1
+5,Pune,Maharashtra,Tier1
+6,Chennai,Tamil Nadu,Tier1
+7,Ahmedabad,Gujarat,Tier2
+8,Jaipur,Rajasthan,Tier2
+9,Lucknow,Uttar Pradesh,Tier2
+10,Indore,Madhya Pradesh,Tier3
 
