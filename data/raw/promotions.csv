@@ -1,1 +1,7 @@
+promo_id,promo_code,description,discount_pct,start_date,end_date
+1,WELCOME10,10% off first order,10,2026-05-05,2026-05-26
+2,SAVE15,Flat 15% off,15,2026-04-30,2026-05-20
+3,WEEKEND20,Weekend special 20% off,20,2026-04-05,2026-04-21
+4,FEST25,Festival season discount,25,2026-03-20,2026-04-20
+5,FLASH5,Flash sale 5% off,5,2026-06-02,2026-07-10
 
