@@ -1,1 +1,252 @@
+product_id,product_name,category_id,brand,unit_price,unit_cost,shelf_life_days,is_active
+1,Surface Hair Care,21,SnackHouse,541.39,370.9,180,True
+2,Animal Cereal,12,FreshCo,363.88,309.64,365,True
+3,Show Milk,11,PrimeGoods,142.45,114.42,180,True
+4,Machine Oral Care,22,UrbanKitchen,352.75,265.62,7,True
+5,Not Frozen Snacks,28,HomeCare,148.93,106.18,180,True
+6,Capital Hair Care,21,SnackHouse,478.9,360.15,7,True
+7,Win Skin Care,20,DailyBasket,53.23,45.45,7,True
+8,Human Hair Care,21,DailyBasket,427.33,318.91,30,True
+9,Bar Fresh Fruits,9,GreenValley,553.14,398.49,365,True
+10,Old Juices,18,GreenValley,330.8,275.31,365,True
+11,Finally Tea & Coffee,19,QuickBite,312.03,259.98,7,True
+12,Themselves Laundry,24,HomeCare,589.84,381.99,90,True
+13,Production Tea & Coffee,19,HomeCare,249.16,208.0,365,True
+14,Present Juices,18,PureLeaf,301.65,247.5,90,True
+15,Value Tea & Coffee,19,PrimeGoods,578.04,369.75,15,True
+16,Training Oral Care,22,HomeCare,70.43,53.63,7,True
+17,High Tea & Coffee,19,DailyBasket,555.46,352.42,180,True
+18,Participant Tea & Coffee,19,PureLeaf,55.2,36.99,7,True
+19,Dark Oral Care,22,GreenValley,464.34,379.27,365,True
+20,Sea Cleaning Supplies,23,SnackHouse,605.41,386.1,180,True
+21,Available Skin Care,20,UrbanKitchen,574.25,398.11,90,True
+22,Answer Bread,25,FreshCo,125.76,106.68,90,True
+23,Recently Oral Care,22,FreshCo,276.19,239.49,7,True
+24,Drive Namkeen,15,GreenValley,28.9,22.25,7,True
+25,Spring Cereal,12,PrimeGoods,277.57,199.31,90,True
+26,Figure Bread,25,SnackHouse,478.23,316.0,3,True
+27,Base Juices,18,UrbanKitchen,238.78,178.11,365,True
+28,Top Skin Care,20,DailyBasket,434.23,272.61,3,True
+29,Early Soft Drinks,17,SnackHouse,218.87,142.33,7,True
+30,Trial Eggs,13,HomeCare,247.82,184.96,30,True
+31,Blood Fresh Vegetables,10,GreenValley,499.38,370.07,3,True
+32,Husband Hair Care,21,DailyBasket,610.06,399.72,365,True
+33,Fall Fresh Fruits,9,SnackHouse,102.45,74.86,365,True
+34,Long Cleaning Supplies,23,QuickBite,43.41,32.87,15,True
+35,Prove Skin Care,20,GreenValley,404.22,316.2,180,True
+36,They Frozen Snacks,28,FreshCo,90.32,70.37,90,True
+37,His Cakes,26,FreshCo,43.6,33.77,90,True
+38,Commercial Frozen Snacks,28,FreshCo,511.93,368.56,90,True
+39,Hospital Fresh Vegetables,10,SnackHouse,116.92,82.47,30,True
+40,Hear Oral Care,22,PrimeGoods,450.37,357.21,3,True
+41,Determine Eggs,13,GreenValley,245.1,173.5,15,True
+42,Religious Tea & Coffee,19,SnackHouse,132.01,89.66,15,True
+43,Example Juices,18,NatureFirst,349.47,271.96,365,True
+44,Science Cakes,26,PrimeGoods,19.48,13.63,3,True
+45,Write Ice Cream,27,NatureFirst,118.21,93.13,3,True
+46,Result Milk,11,GreenValley,188.18,154.12,180,True
+47,Raise Laundry,24,GreenValley,595.74,393.7,3,True
+48,Away Namkeen,15,DailyBasket,355.11,226.29,7,True
+49,Politics Soft Drinks,17,PureLeaf,529.8,356.99,15,True
+50,Prove Fresh Fruits,9,HomeCare,120.19,92.15,90,True
+51,Congress Chips,14,DailyBasket,555.78,363.08,180,True
+52,None Cakes,26,PureLeaf,135.78,117.91,180,True
+53,Shoulder Fresh Vegetables,10,QuickBite,98.49,73.02,90,False
+54,Election Laundry,24,PureLeaf,60.89,39.35,90,True
+55,Common Frozen Snacks,28,QuickBite,215.38,153.99,7,True
+56,Maintain Soft Drinks,17,FreshCo,238.95,152.21,15,True
+57,Hundred Chocolates,16,GreenValley,128.38,107.32,365,True
+58,Expect Chips,14,SnackHouse,307.4,252.06,365,True
+59,Wish Fresh Fruits,9,QuickBite,395.91,321.96,3,True
+60,Push Milk,11,QuickBite,556.59,370.55,365,True
+61,Rise Oral Care,22,PureLeaf,374.3,296.67,365,True
+62,Onto Cakes,26,UrbanKitchen,185.84,159.19,7,True
+63,Discuss Cleaning Supplies,23,SnackHouse,481.36,368.2,7,False
+64,Reveal Chocolates,16,DailyBasket,110.72,85.32,365,True
+65,Garden Milk,11,GreenValley,346.0,260.18,15,True
+66,Threat Laundry,24,PureLeaf,87.24,54.98,90,True
+67,Special Chocolates,16,QuickBite,136.1,113.53,15,True
+68,Stand Frozen Snacks,28,GreenValley,188.28,132.33,3,True
+69,Arrive Tea & Coffee,19,QuickBite,297.02,234.87,3,True
+70,Drop Laundry,24,SnackHouse,473.53,324.54,15,True
+71,Term Oral Care,22,PrimeGoods,594.55,380.06,15,True
+72,Almost Oral Care,22,GreenValley,91.12,58.6,15,True
+73,Support Fresh Fruits,9,GreenValley,200.84,137.21,7,True
+74,Four Namkeen,15,PureLeaf,355.67,269.32,90,True
+75,Institution Juices,18,HomeCare,256.79,168.37,15,True
+76,Executive Oral Care,22,NatureFirst,450.31,316.45,30,True
+77,Attorney Cleaning Supplies,23,PureLeaf,377.42,273.49,180,True
+78,Development Cakes,26,NatureFirst,302.79,211.03,3,True
+79,White Oral Care,22,SnackHouse,440.1,302.94,365,True
+80,Yes Tea & Coffee,19,UrbanKitchen,24.61,19.53,90,True
+81,Our Laundry,24,PrimeGoods,51.32,38.4,7,True
+82,Under Cereal,12,PureLeaf,212.44,159.75,180,True
+83,Serious Fresh Fruits,9,DailyBasket,550.53,358.14,365,True
+84,Forward Oral Care,22,GreenValley,124.27,78.6,30,True
+85,Difference Chocolates,16,UrbanKitchen,164.19,107.19,7,True
+86,Reality Fresh Vegetables,10,PrimeGoods,431.1,270.36,15,True
+87,Money Bread,25,GreenValley,509.91,357.66,30,True
+88,Individual Fresh Vegetables,10,UrbanKitchen,347.53,223.67,30,True
+89,Usually Cleaning Supplies,23,GreenValley,152.92,106.42,30,True
+90,Who Chips,14,HomeCare,138.74,117.09,7,True
+91,Question Tea & Coffee,19,PureLeaf,187.63,134.69,7,True
+92,Low Juices,18,DailyBasket,411.95,280.64,30,True
+93,Character Soft Drinks,17,SnackHouse,296.33,221.62,365,True
+94,Evidence Fresh Vegetables,10,FreshCo,512.7,362.89,365,True
+95,Chair Oral Care,22,NatureFirst,320.04,234.52,15,True
+96,Employee Chocolates,16,QuickBite,541.36,342.84,90,True
+97,Size Soft Drinks,17,SnackHouse,316.97,222.99,30,True
+98,Option Cereal,12,NatureFirst,209.33,179.98,180,True
+99,Nothing Laundry,24,UrbanKitchen,205.29,167.68,7,True
+100,Everyone Chocolates,16,PrimeGoods,340.15,218.31,90,True
+101,Skin Laundry,24,UrbanKitchen,57.39,42.74,7,True
+102,Pattern Ice Cream,27,NatureFirst,196.56,157.85,15,True
+103,Later Juices,18,QuickBite,234.96,157.86,15,True
+104,Water Fresh Vegetables,10,FreshCo,287.63,193.42,15,True
+105,Past Bread,25,FreshCo,58.11,36.76,365,True
+106,Inside Chocolates,16,PrimeGoods,162.6,106.44,7,True
+107,High Soft Drinks,17,SnackHouse,233.92,194.69,30,True
+108,Discuss Frozen Snacks,28,PrimeGoods,378.79,309.09,180,True
+109,Certainly Fresh Fruits,9,HomeCare,383.43,313.34,3,True
+110,Mr Eggs,13,QuickBite,524.57,372.27,30,True
+111,Minute Juices,18,SnackHouse,123.73,87.35,3,True
+112,Benefit Milk,11,DailyBasket,186.06,127.62,365,True
+113,Someone Hair Care,21,QuickBite,411.77,315.23,180,True
+114,Anyone Cleaning Supplies,23,QuickBite,270.25,207.32,365,True
+115,Traditional Laundry,24,UrbanKitchen,235.12,179.07,180,True
+116,Break Fresh Vegetables,10,HomeCare,108.97,78.69,90,True
+117,Claim Fresh Fruits,9,QuickBite,300.72,219.89,365,True
+118,Product Cakes,26,DailyBasket,175.82,114.67,15,True
+119,Collection Tea & Coffee,19,PrimeGoods,142.86,105.11,180,True
+120,Structure Ice Cream,27,PureLeaf,32.48,21.19,30,True
+121,Response Hair Care,21,PrimeGoods,418.51,321.15,180,True
+122,Knowledge Cakes,26,SnackHouse,313.49,226.76,3,True
+123,Pick Cereal,12,SnackHouse,235.89,168.51,180,True
+124,Attack Cereal,12,FreshCo,388.77,287.62,3,True
+125,Image Laundry,24,PrimeGoods,211.24,167.72,15,True
+126,I Soft Drinks,17,GreenValley,291.18,217.06,15,True
+127,Pick Fresh Vegetables,10,SnackHouse,240.8,186.96,3,True
+128,Management Chips,14,PureLeaf,197.5,133.06,7,True
+129,Newspaper Fresh Fruits,9,GreenValley,293.5,198.84,90,True
+130,Enter Laundry,24,SnackHouse,60.89,49.21,15,True
+131,On Juices,18,HomeCare,21.58,15.52,3,True
+132,Traditional Chocolates,16,PureLeaf,330.55,225.81,180,True
+133,Yes Chocolates,16,PrimeGoods,310.77,201.44,15,True
+134,Activity Fresh Fruits,9,FreshCo,224.13,181.78,15,True
+135,Response Cleaning Supplies,23,QuickBite,298.38,196.31,30,True
+136,Set Skin Care,20,PureLeaf,299.97,255.48,365,True
+137,Building Tea & Coffee,19,DailyBasket,205.25,128.5,90,True
+138,Rest Laundry,24,SnackHouse,371.13,246.46,365,True
+139,Value Cleaning Supplies,23,PrimeGoods,250.55,185.7,30,True
+140,Not Milk,11,DailyBasket,359.22,252.2,365,True
+141,Social Eggs,13,PureLeaf,133.58,92.3,7,True
+142,Example Cereal,12,UrbanKitchen,45.22,39.28,180,True
+143,Specific Chips,14,HomeCare,155.0,123.59,180,True
+144,Put Ice Cream,27,HomeCare,47.39,37.76,365,True
+145,Grow Cakes,26,SnackHouse,362.85,240.02,30,True
+146,Brother Oral Care,22,HomeCare,118.88,97.68,365,True
+147,Finally Hair Care,21,PrimeGoods,50.11,33.26,180,True
+148,Learn Cleaning Supplies,23,UrbanKitchen,497.64,369.27,180,True
+149,Coach Tea & Coffee,19,GreenValley,212.48,166.98,30,True
+150,Long Laundry,24,NatureFirst,377.06,243.23,90,True
+151,About Skin Care,20,PrimeGoods,72.21,45.62,90,True
+152,Seven Skin Care,20,HomeCare,580.76,399.83,90,True
+153,Type Chocolates,16,UrbanKitchen,415.24,304.94,15,True
+154,Serve Laundry,24,UrbanKitchen,342.09,238.28,3,True
+155,Everyone Chips,14,DailyBasket,219.1,169.26,365,True
+156,Month Hair Care,21,QuickBite,234.14,170.54,365,True
+157,Sound Eggs,13,HomeCare,28.92,24.31,15,True
+158,Could Soft Drinks,17,FreshCo,479.14,311.29,180,True
+159,Movement Tea & Coffee,19,GreenValley,223.33,190.17,15,True
+160,While Fresh Fruits,9,FreshCo,275.73,204.41,7,True
+161,Born Ice Cream,27,UrbanKitchen,78.18,61.1,3,False
+162,Truth Eggs,13,PureLeaf,386.04,255.71,15,True
+163,Process Namkeen,15,DailyBasket,268.64,225.38,30,True
+164,Fire Tea & Coffee,19,HomeCare,320.2,262.61,90,True
+165,Thought Oral Care,22,UrbanKitchen,235.2,172.04,7,True
+166,Purpose Tea & Coffee,19,PrimeGoods,82.07,66.41,90,True
+167,Movement Fresh Vegetables,10,QuickBite,74.71,63.24,15,True
+168,Politics Bread,25,HomeCare,316.03,208.02,180,True
+169,Decide Ice Cream,27,UrbanKitchen,382.14,238.91,365,True
+170,Claim Oral Care,22,GreenValley,287.23,220.05,365,True
+171,Hour Ice Cream,27,SnackHouse,242.88,187.58,180,True
+172,Sound Tea & Coffee,19,QuickBite,244.65,159.36,3,True
+173,Color Soft Drinks,17,QuickBite,303.56,194.46,30,True
+174,Notice Chocolates,16,PureLeaf,460.49,319.03,30,True
+175,Start Ice Cream,27,NatureFirst,93.86,59.24,365,True
+176,Win Cereal,12,UrbanKitchen,405.74,339.57,3,True
+177,Nice Bread,25,PureLeaf,245.43,169.89,3,True
+178,Why Fresh Vegetables,10,QuickBite,505.3,387.99,180,True
+179,A Laundry,24,GreenValley,200.78,138.14,30,True
+180,Place Bread,25,UrbanKitchen,394.23,254.45,365,True
+181,Game Eggs,13,HomeCare,314.93,250.81,7,True
+182,Middle Hair Care,21,DailyBasket,214.08,179.25,30,True
+183,After Skin Care,20,NatureFirst,147.46,126.79,365,True
+184,Brother Frozen Snacks,28,SnackHouse,201.3,149.8,90,True
+185,Woman Namkeen,15,PureLeaf,339.64,275.9,3,True
+186,Him Skin Care,20,UrbanKitchen,232.01,159.19,90,True
+187,Unit Hair Care,21,HomeCare,240.03,189.85,180,False
+188,Theory Oral Care,22,GreenValley,503.7,323.81,7,True
+189,Surface Bread,25,HomeCare,603.72,378.64,180,True
+190,Food Skin Care,20,HomeCare,378.5,279.22,7,True
+191,Education Juices,18,QuickBite,410.67,342.8,90,True
+192,Article Fresh Vegetables,10,FreshCo,183.66,125.39,365,True
+193,Effect Skin Care,20,FreshCo,164.42,117.05,90,True
+194,Unit Ice Cream,27,SnackHouse,521.07,334.81,90,True
+195,Our Milk,11,HomeCare,117.88,95.41,180,True
+196,Your Cereal,12,PureLeaf,450.47,309.31,180,True
+197,Bar Milk,11,UrbanKitchen,297.44,254.71,3,True
+198,Bed Milk,11,HomeCare,351.95,295.62,15,True
+199,Sign Soft Drinks,17,GreenValley,94.94,78.5,15,True
+200,Mention Eggs,13,HomeCare,558.08,366.26,365,True
+201,Team Fresh Vegetables,10,NatureFirst,496.81,387.28,365,True
+202,Authority Frozen Snacks,28,SnackHouse,467.78,385.53,365,True
+203,Soon Soft Drinks,17,GreenValley,362.8,273.02,15,True
+204,No Bread,25,DailyBasket,207.96,163.88,30,True
+205,Space Tea & Coffee,19,QuickBite,383.07,302.11,365,True
+206,Car Cereal,12,UrbanKitchen,225.13,154.87,3,True
+207,Career Tea & Coffee,19,PrimeGoods,490.29,377.84,7,True
+208,Receive Cakes,26,HomeCare,350.34,257.81,180,True
+209,May Namkeen,15,HomeCare,101.66,64.51,30,True
+210,Your Milk,11,QuickBite,141.37,101.57,30,True
+211,Often Tea & Coffee,19,GreenValley,556.48,380.26,30,True
+212,Company Cakes,26,DailyBasket,454.26,293.37,365,True
+213,Evidence Tea & Coffee,19,FreshCo,266.98,169.17,180,True
+214,News Cleaning Supplies,23,NatureFirst,288.6,182.92,3,True
+215,Turn Skin Care,20,NatureFirst,238.44,153.26,3,True
+216,Policy Soft Drinks,17,UrbanKitchen,101.25,84.03,3,True
+217,Land Cereal,12,FreshCo,369.23,260.26,3,True
+218,Development Ice Cream,27,PrimeGoods,126.69,104.99,7,True
+219,Woman Cakes,26,SnackHouse,383.42,308.41,365,True
+220,Notice Juices,18,PrimeGoods,168.03,138.14,3,True
+221,Someone Frozen Snacks,28,GreenValley,627.82,393.77,15,True
+222,Show Juices,18,PureLeaf,81.41,52.87,3,True
+223,Road Laundry,24,FreshCo,449.24,317.49,7,True
+224,Deep Laundry,24,DailyBasket,79.62,59.44,180,True
+225,Sell Fresh Vegetables,10,PrimeGoods,242.67,184.83,3,True
+226,Forget Eggs,13,GreenValley,137.54,96.4,15,True
+227,Inside Laundry,24,UrbanKitchen,454.43,385.97,365,True
+228,Remain Chips,14,UrbanKitchen,380.46,277.58,3,True
+229,Rate Cereal,12,PureLeaf,165.02,135.62,15,True
+230,Hour Cakes,26,QuickBite,350.4,238.29,90,True
+231,Left Milk,11,DailyBasket,265.93,186.95,365,True
+232,We Chips,14,GreenValley,494.33,342.59,180,True
+233,Nation Cakes,26,QuickBite,275.42,177.73,15,True
+234,Live Bread,25,NatureFirst,244.66,165.5,30,True
+235,Camera Chips,14,UrbanKitchen,172.77,109.41,3,True
+236,End Juices,18,NatureFirst,58.2,43.29,365,True
+237,Down Namkeen,15,GreenValley,52.77,33.39,15,True
+238,Attack Hair Care,21,QuickBite,262.67,170.22,365,True
+239,Ground Laundry,24,HomeCare,38.46,30.06,15,True
+240,Against Frozen Snacks,28,UrbanKitchen,253.55,207.89,7,True
+241,Per Cereal,12,DailyBasket,205.2,146.54,365,True
+242,Once Cereal,12,GreenValley,131.89,98.2,365,True
+243,Drug Juices,18,FreshCo,358.78,249.29,90,True
+244,Per Soft Drinks,17,PureLeaf,423.65,333.49,15,True
+245,Discussion Fresh Fruits,9,FreshCo,170.03,130.5,7,True
+246,Account Bread,25,PureLeaf,307.14,230.87,180,True
+247,Avoid Cleaning Supplies,23,SnackHouse,32.63,21.96,30,True
+248,Second Cakes,26,NatureFirst,188.2,142.95,365,True
+249,Program Cleaning Supplies,23,PureLeaf,375.32,242.53,7,True
+250,Artist Chocolates,16,UrbanKitchen,34.9,29.41,180,True
 
