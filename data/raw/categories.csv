@@ -1,1 +1,30 @@
+category_id,category_name,parent_category_id
+1,Fruits & Vegetables,
+2,Dairy & Breakfast,
+3,Snacks,
+4,Beverages,
+5,Personal Care,
+6,Household Essentials,
+7,Bakery,
+8,Frozen Food,
+9,Fresh Fruits,1.0
+10,Fresh Vegetables,1.0
+11,Milk,2.0
+12,Cereal,2.0
+13,Eggs,2.0
+14,Chips,3.0
+15,Namkeen,3.0
+16,Chocolates,3.0
+17,Soft Drinks,4.0
+18,Juices,4.0
+19,Tea & Coffee,4.0
+20,Skin Care,5.0
+21,Hair Care,5.0
+22,Oral Care,5.0
+23,Cleaning Supplies,6.0
+24,Laundry,6.0
+25,Bread,7.0
+26,Cakes,7.0
+27,Ice Cream,8.0
+28,Frozen Snacks,8.0
 
