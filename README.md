@@ -251,7 +251,6 @@ Dark-Store-Performance-Inventory-Intelligence/
 │
 ├── README.md
 ├── LICENSE
-├── .gitignore
 ├── requirements.txt
 │
 ├── data/
